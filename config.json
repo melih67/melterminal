@@ -1,20 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "CV|Terminal",
+  "name": "Melih ACIKOZ",
+  "ascii": "melterminal",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "https://github.com/melih67",
+    "linkedin": "https://www.linkedin.com/in/melih-acikoz/"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "acikozmelih@gmail.com",
+  "ps1_hostname": "kali",
+  "ps1_username": "root",
+  "repo": "https://github.com/melih67/melterminal",
+  "resume_url": "https://drive.google.com/file/d/1tESiiGuIWLoXIwSpJr2TJzfG1FN32F_e/view?usp=sharing",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "https://paypal.me/melihacikoz",
+    "patreon": ""
   },
   "colors": {
     "light": {
@@ -27,7 +27,7 @@
       "red": "#CA2124"
     },
     "dark": {
-      "background": "#2E3440",
+      "background": "#122734",
       "foreground": "#E5E9F0",
       "yellow": "#5E81AC",
       "green": "#A3BE8C",
